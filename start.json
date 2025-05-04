@@ -2,6 +2,7 @@
   "name": "App loader",
   "headline": "App loader",
   "parameter": "content:https://alex00dor.github.io/msx/start.json",
+  "version": "1.0.0",
   "action": "[settings:validate_links:0|home]",
   "pages": [
     {
