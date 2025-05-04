@@ -26,7 +26,7 @@
             "action": "update:content:description",
             "data": {
               "text": [
-                "{txt:msx-white: Lampa"
+                "{txt:msx-white: Lampa}"
               ]
             }
           }
